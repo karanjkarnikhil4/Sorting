@@ -3,6 +3,7 @@ package InsertionSort;
 public class InsertionSort {
 
     private static int[] integerArray = {20,35,-15,7,55,1,-22};
+  
 
     public static void main(String[] args)
     {
