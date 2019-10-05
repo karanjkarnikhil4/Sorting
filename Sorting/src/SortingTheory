@@ -1,0 +1,7 @@
+ Bubble sort  ----> Inplace sorting -->Stable sort      O(n2)  More swaps then selection sort (performance is less than selection sort)
+ Selection sort ---> Inplace sorting -->Unstable sort   O(n2)  less swaps then bubble sort  (better performance then bubble sort)
+ Insertion sort----> Inplace sorting --> Stable sort     O(n2)  shifting instead of swaps (better performance for partial sorted array, less shifts) O(n2)
+ Shell sort    ----> Inplace sorting -->Unstable sort    O(n2)  
+ Merge sort  ----> Not Inplace sorting --> Stable sort O(nlogn) much better but requires extra space
+ Quick sort ---->  Inplace sorting --> Unstable sort O(nlogn) 
+ 
